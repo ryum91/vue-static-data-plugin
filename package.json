@@ -1,0 +1,19 @@
+{
+  "name": "vue-static-data-plugin",
+  "version": "1.0.0",
+  "description": "vue static data plugin",
+  "main": "src/vue-static-data-plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryum91/vue-static-data-plugin.git"
+  },
+  "author": "ryum91",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryum91/vue-static-data-plugin/issues"
+  },
+  "homepage": "https://github.com/ryum91/vue-static-data-plugin#readme"
+}
